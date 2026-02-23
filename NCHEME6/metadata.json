@@ -1,0 +1,5 @@
+{
+  "name": "NCHEME - Artist Platform",
+  "description": "A production-ready platform for upcoming artists to share their music with fans, featuring secure uploads, role-based access, and activity logging.",
+  "requestFramePermissions": []
+}
